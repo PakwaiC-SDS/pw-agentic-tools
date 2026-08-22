@@ -1,6 +1,6 @@
 ---
 name: goal
-description: Hermes-style goal loop with persistent state. Triggers: /goal, "set a goal", "work toward".
+description: Set and track persistent goals across sessions with step-by-step execution and self-evaluation.
 disable-model-invocation: true
 ---
 
