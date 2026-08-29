@@ -1,5 +1,5 @@
 ---
-name: Pak wai
+name: pakwai-generic
 description: "Pak wai general purpose agent. Use for general coding questions, code review, and debugging."
 tools: [read, edit, search, execute]
 user-invocable: true

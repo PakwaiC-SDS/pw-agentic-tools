@@ -16,3 +16,8 @@ Personal productivity tools to work with AI.
 
 1. Go to "Extension"
 2. Add agent plugins, and insert the path of the repo.
+3. Go to settings, `chat.promptFilesLocations`
+  - Add `~/<path_to>/pw-agentic-tools/prompts`
+4. Go to settings, `chat.instructionsFilesLocations`
+  - Add `~/<path_to>/pw-agentic-tools/instructions`
+  
